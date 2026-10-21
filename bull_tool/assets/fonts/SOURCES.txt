@@ -1,0 +1,10 @@
+# file	sha256	source (SIL Open Font License 1.1)
+BeVietnamPro-Regular.ttf	cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3	https://raw.githubusercontent.com/google/fonts/c13390277dfb1fcc7415d84ef7ef9cfc1e52f8c1/ofl/bevietnampro/BeVietnamPro-Regular.ttf
+BeVietnamPro-Medium.ttf	b60832bfa0fcd015158112c64d7e3fdad3b0c6287d1823f85a3103636e845268	https://raw.githubusercontent.com/google/fonts/c13390277dfb1fcc7415d84ef7ef9cfc1e52f8c1/ofl/bevietnampro/BeVietnamPro-Medium.ttf
+BeVietnamPro-SemiBold.ttf	bd8e27eb02720b9d91e59e4f10a90878643219f25ce6a8d9a4f06a8a88d3bb71	https://raw.githubusercontent.com/google/fonts/c13390277dfb1fcc7415d84ef7ef9cfc1e52f8c1/ofl/bevietnampro/BeVietnamPro-SemiBold.ttf
+BeVietnamPro-Bold.ttf	7f738fe5c43c8872807b20e2d30d42163618de8a4daf7f48a939adac32c16847	https://raw.githubusercontent.com/google/fonts/c13390277dfb1fcc7415d84ef7ef9cfc1e52f8c1/ofl/bevietnampro/BeVietnamPro-Bold.ttf
+BeVietnamPro-ExtraBold.ttf	44dbfa01553d227bec76ba6446c5618870a76a4a3297f41630dde859d0650d02	https://raw.githubusercontent.com/google/fonts/c13390277dfb1fcc7415d84ef7ef9cfc1e52f8c1/ofl/bevietnampro/BeVietnamPro-ExtraBold.ttf
+OFL-BeVietnamPro.txt	6b7f8f73609a25ea78c891e34cf37b06f8a676b7ea986e941e43b009110f2a85	https://raw.githubusercontent.com/google/fonts/c13390277dfb1fcc7415d84ef7ef9cfc1e52f8c1/ofl/bevietnampro/OFL.txt
+JetBrainsMono-Regular.ttf	a0bf60ef0f83c5ed4d7a75d45838548b1f6873372dfac88f71804491898d138f	https://raw.githubusercontent.com/JetBrains/JetBrainsMono/v2.304/fonts/ttf/JetBrainsMono-Regular.ttf
+JetBrainsMono-SemiBold.ttf	1b3bfa1ed5665a4ce3f9feb68d2d4e40e70bf8b4b7d9a3edd418f321b4e166a0	https://raw.githubusercontent.com/JetBrains/JetBrainsMono/v2.304/fonts/ttf/JetBrainsMono-SemiBold.ttf
+OFL-JetBrainsMono.txt	30f0c136e3c88e422d0791acd97238870f9054a9729bc34cf2ff0d4ed8cac4ad	https://raw.githubusercontent.com/JetBrains/JetBrainsMono/v2.304/OFL.txt
