@@ -1,0 +1,18 @@
+[project]
+name = "bull-tool"
+version = "1.0.0"
+description = "BULL TOOL - dọn ứng dụng rác và cài ứng dụng cho điện thoại Android qua ADB"
+requires-python = ">=3.14"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+markers = ["slow: builds real executables or touches real hardware (deselect with -m 'not slow')"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py313"
+extend-exclude = [".build", "release", "plans"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
